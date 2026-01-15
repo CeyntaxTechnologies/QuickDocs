@@ -6,17 +6,13 @@
 <p align="center">A powerful offline toolkit for PDF and image processing — fast, private, and reliable.</p>
 
 
-
 ## 📥 Download
 👉 [Download QuickDocs v1.1.0](https://github.com/Ceyntax/QuickDocs/releases/tag/v1.0.0-alpha)
 
 One Suite for All Your Document Conversions. 
 
 🛡️ All Your Conversions, 100% Offline & Private. 
-
 QuickDocs is a powerful and easy-to-use document conversion suite designed to handle all your file transformation needs with speed and accuracy. Whether you’re converting PDFs, Word files, or images, QuickDocs ensures seamless results without compromising quality. Built for professionals and everyday users alike, it streamlines workflows, saves time, and keeps your documents ready in the format you need. 
-
-
 
 
 ## ✨ Features
@@ -58,19 +54,14 @@ QuickDocs is a powerful and easy-to-use document conversion suite designed to ha
 
 
 
----
-
 ## 🔒 Privacy First
 QuickDocs works **100% offline**. No internet connection is required, and your documents and images never leave your computer — ensuring maximum privacy and security.
 
----
 
 ## 📌 Requirements
 - **Operating System:** Windows 10 or later  
 - **Storage:** At least 200 MB free space  
  
-
----
 
 ## 📜 License
 Copyright © 2025 Dushshantha Rajkumar (Ceyntax Technologies). All rights reserved.  
