@@ -5,7 +5,7 @@
 <h1 align="center">QuickDocs</h1>
 <p align="center">A powerful offline toolkit for PDF and image processing — fast, private, and reliable.</p>
 
----
+
 
 ## 📥 Download
 👉 [Download QuickDocs v1.1.0](https://github.com/Ceyntax/QuickDocs/releases/tag/v1.0.0-alpha)
@@ -17,7 +17,7 @@ One Suite for All Your Document Conversions.
 QuickDocs is a powerful and easy-to-use document conversion suite designed to handle all your file transformation needs with speed and accuracy. Whether you’re converting PDFs, Word files, or images, QuickDocs ensures seamless results without compromising quality. Built for professionals and everyday users alike, it streamlines workflows, saves time, and keeps your documents ready in the format you need. 
 
 
----
+
 
 ## ✨ Features
 
